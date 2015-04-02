@@ -17,12 +17,12 @@
   - Que es un branch? *OK*
   - Hacer merge *OK*
 - Rails
-  - Como comenzar?
-  - MVC
-  - La consola de rails, comandos.
-  - BD en rails.
+  - Como comenzar? *OK*
+  - MVC *OK*
+  - La consola de rails, comandos. *OK*
+  - BD en rails. *OK*
 
   - Fat models Skinny controllers.
 - REST
-  - Routes
-  - POSTMAN
+  - Routes *OK*
+  - POSTMAN *OK*
